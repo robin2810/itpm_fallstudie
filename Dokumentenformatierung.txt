@@ -1,0 +1,11 @@
+Seitenränder
+-links: 4cm
+-rechts: 2cm
+-oben: 2cm
+-unten: 2cm
+
+Schrift
+-Art: Times New Roman
+-Größe: 12
+
+Zeilenabstand:1,5
