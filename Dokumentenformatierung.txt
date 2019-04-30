@@ -8,4 +8,4 @@ Schrift
 -Art: Times New Roman
 -Größe: 12
 
-Zeilenabstand:1,5
+Zeilenabstand: 1,5
