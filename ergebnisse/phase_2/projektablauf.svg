@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generiert durch Microsoft Visio, SVG Export projektablauf.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
+		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st18">
+	<v:documentProperties v:langID="1031" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+			<v:ud v:nameU="visTLShowProps" v:prompt="" v:val="VT0(0):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#203864;stroke:#4672c4;stroke-width:0.25}
+		.st2 {stroke:#4672c4;stroke-width:0.25}
+		.st3 {fill:#305497;font-family:Calibri;font-size:1.00001em;font-weight:bold}
+		.st4 {fill:#203864}
+		.st5 {stroke:#c7c8c8;stroke-width:0.25}
+		.st6 {fill:#4672c4;stroke:none;stroke-width:0.25}
+		.st7 {fill:#feffff;font-family:Calibri;font-size:1.00001em;font-weight:bold}
+		.st8 {font-size:1em}
+		.st9 {fill:#4672c4;stroke:#c7c8c8;stroke-width:0.25}
+		.st10 {fill:#90aadb;stroke:#c7c8c8;stroke-width:0.25}
+		.st11 {fill:#feffff;font-family:Calibri;font-size:0.833336em;font-weight:bold}
+		.st12 {fill:#a5a5a5;stroke:none;stroke-width:0.75}
+		.st13 {fill:#a8d08d;stroke:#c7c8c8;stroke-width:0.25}
+		.st14 {fill:#feffff;font-family:Calibri;font-size:0.833336em}
+		.st15 {marker-end:url(#mrkr4-142);stroke:#a5a5a5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st16 {fill:#a5a5a5;fill-opacity:1;stroke:#a5a5a5;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st17 {marker-end:url(#mrkr4-148);stroke:#a5a5a5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st18 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-142" class="st16" v:arrowType="4" v:arrowSize="2" v:setback="7.04" refX="-7.04" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
+		</marker>
+		<marker id="mrkr4-148" class="st16" v:arrowType="4" v:arrowSize="2" v:setback="0" refX="-0" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>Zeichenblatt-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Verbinder" v:index="0"/>
+		<g id="group12-1" transform="translate(56.6929,-294.803)" v:mID="12" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="visType" v:lbl="Typ der Zeitachse" v:type="1" v:format="Block;Linie;Lineal;Unterteilt;Zylindrisch"
+						v:sortKey="visMkt0" v:langID="1031" v:val="VT4(Block)"/>
+				<v:cp v:nameU="visBeginDate" v:lbl="Anfang" v:type="5" v:format="{{M/d}}" v:invis="true" v:langID="1031"
+						v:val="VT17(2019-04-19T00:00:00):39"/>
+				<v:cp v:nameU="visEndDate" v:lbl="Abschluss" v:type="5" v:format="{{M/d}}" v:invis="true" v:langID="1031"
+						v:val="VT17(2019-10-18T00:00:00):39"/>
+				<v:cp v:nameU="visBeginDate" v:lbl="" v:prompt="" v:type="0" v:format="{{dd.MM.yyyy}}" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="0" v:cal="0" v:val="VT0(43619):26"/>
+				<v:cp v:nameU="visEndDate" v:lbl="" v:prompt="" v:type="0" v:format="{{dd.MM.yyyy}}" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="0" v:cal="0" v:val="VT0(43770):26"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visArrowhead" v:prompt="0 = none, 1 = right, 2 = left, 3 = both." v:val="VT0(0):26"/>
+				<v:ud v:nameU="visBeginDate" v:prompt="Beginning date of timeline" v:val="VT17(2019-04-19T00:00:00):39"/>
+				<v:ud v:nameU="visEndDate" v:prompt="Ending date of timeline" v:val="VT17(2019-10-18T00:00:00):39"/>
+				<v:ud v:nameU="visTimeScale" v:prompt="0=sec, 1=min, 2=hrs, 3=days, 4=weeks, 5=months, 6=qtrs, 7=yrs"
+						v:val="VT0(5):26"/>
+				<v:ud v:nameU="visBeginWeek" v:prompt="0=Sun, 1=Mon, 2=Tue, 3=Wed, 4=Thu, 5=Fri, 6=Sat" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visDisplayBE" v:prompt="0/1=whether to display Begin and End dates on timeline" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visDisplayIntm" v:prompt="0/1=whether to display interim date/time ticks on timeline"
+						v:val="VT0(1):26"/>
+				<v:ud v:nameU="visAutoUpdate"
+						v:prompt="0/1=whether to update data for markers (milestones, intervals) as they are moved on timeline"
+						v:val="VT0(1):26"/>
+				<v:ud v:nameU="visNumIntm" v:prompt="Number of interim markings on timeline" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visTimeline"
+						v:prompt="Addon checks for existence of this cell when &#39;attaching&#39; new markers to a timeline"
+						v:val="VT4(v1.0)"/>
+				<v:ud v:nameU="visBaseDate" v:prompt="The starting date of the interim period that BeginDate falls into"
+						v:val="VT0(37377.042372685):26"/>
+				<v:ud v:nameU="visWidthFraction"
+						v:prompt="The fraction of the width that represents a single interim unit (minutes, hours, days...)"
+						v:val="VT0(0.049450549450549):26"/>
+				<v:ud v:nameU="visBEOffset" v:prompt="Offset for height of begin &#38; end date markings"
+						v:val="VT0(0.23622047244094):24"/>
+				<v:ud v:nameU="visInterimOffset" v:prompt="Offset for height of interim markings" v:val="VT0(0.11811023622047):24"/>
+				<v:ud v:nameU="visMarkerTextWidth" v:prompt="Width for interim date text blocks" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="visTLShape" v:prompt="0 = Block, 1 = 1-D, 2 = Ruler, 3 = Divided, 4 = Cylindrical" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDisplayIntmDates" v:prompt="0/1=whether to display interim dates on interim ticks"
+						v:val="VT0(1):26"/>
+				<v:ud v:nameU="visScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visAntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visTLType" v:prompt="0 = Stand Alone, 1 = Banded, 2 = Expanded" v:val="VT0(0):26"/>
+				<v:ud v:nameU="solsh" v:val="VT15({C3EB9826-CDD3-4823-9E1B-0C6D073C3B20}):41"/>
+				<v:ud v:nameU="visShapeType" v:val="VT0(10):26"/>
+				<v:ud v:nameU="visBEMask" v:val="VT4({{M/d}})"/>
+				<v:ud v:nameU="visIntmMask" v:val="VT4(c)"/>
+				<v:ud v:nameU="visMinorTimeScale" v:prompt="0=sec, 1=min, 2=hrs, 3=days, 4=weeks, 5=months, 6=qtrs, 7=yrs"
+						v:val="VT0(3):26"/>
+				<v:ud v:nameU="visFiscalStart" v:prompt="First day of fiscal year" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visIntmPict" v:prompt="" v:val="VT0(200):26"/>
+				<v:ud v:nameU="visBEPict" v:prompt="" v:val="VT0(200):26"/>
+				<v:ud v:nameU="ObjID" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visRelTimeScale" v:prompt="0=sec, 1=min, 2=hrs, 3=days, 4=weeks, 5=months, 6=qtrs, 7=yrs"
+						v:val="VT0(5):26"/>
+				<v:ud v:nameU="LCID" v:val="VT0(-1):26"/>
+				<v:ud v:nameU="visParentTL" v:prompt="Name of parent timeline if this timeline is exploded" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visInterimType" v:prompt="0=None, 1=Line, 2=Extended Line, 3=Tick Inside, 4=Tick Outside"
+						v:val="VT4(4)"/>
+				<v:ud v:nameU="visInterimLoc" v:prompt="0=Bottom, 1=Center, 2=Top" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visIntmDateOffset" v:prompt="0= Below, 1=Inside, 2=Above" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvInLiveRender" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="StartTxtHeight" v:prompt="" v:val="VT0(0.18893838026259):1"/>
+				<v:ud v:nameU="EndTxtHeight" v:prompt="" v:val="VT0(0.18893838026259):1"/>
+				<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#ffffff)"/>
+				<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#000000)"/>
+				<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+				<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+				<v:ud v:nameU="visBeginDate" v:prompt="" v:val="VT0(43619):26"/>
+				<v:ud v:nameU="visEndDate" v:prompt="" v:val="VT0(43770):26"/>
+				<v:ud v:nameU="visBeginWeek" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visBEMask" v:prompt="" v:val="VT4({{dd.MM.yyyy}})"/>
+				<v:ud v:nameU="visIntmMask" v:prompt="" v:val="VT4({{dd.MM.yyyy}})"/>
+				<v:ud v:nameU="visFiscalStart" v:prompt="" v:val="VT0(43466):26"/>
+				<v:ud v:nameU="ObjID" v:prompt="" v:val="VT15({A9996509-7461-4120-AE6F-0A886C09B99F}):41"/>
+				<v:ud v:nameU="LCID" v:prompt="" v:val="VT0(1031):26"/>
+				<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="visIntmDateOffset" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="StartTxtHeight" v:prompt="" v:val="VT0(0.25560708143446):1"/>
+				<v:ud v:nameU="EndTxtHeight" v:prompt="" v:val="VT0(0.25560708143446):1"/>
+				<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+				<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#c8c8c8)"/>
+				<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+				<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+				<v:ud v:nameU="Calendar" v:prompt="" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<title>Blockzeitachse</title>
+			<g id="shape13-2" v:mID="13" v:groupContext="shape">
+				<title>Tabelle.13</title>
+				<v:userDefs>
+					<v:ud v:nameU="visTLShape" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#c8c8c8)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+				</v:userDefs>
+				<path d="M0 595.28 L697.32 595.28 L697.32 589.61 L0 589.61 L0 595.28 Z" class="st1"/>
+			</g>
+			<g id="shape14-4" v:mID="14" v:groupContext="shape">
+				<title>Tabelle.14</title>
+				<v:userDefs>
+					<v:ud v:nameU="visArrowhead" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#c8c8c8)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+				</v:userDefs>
+			</g>
+			<g id="shape15-6" v:mID="15" v:groupContext="shape" transform="translate(-35.4331,0)">
+				<title>Tabelle.15</title>
+				<v:userDefs>
+					<v:ud v:nameU="visTLAngle" v:prompt="" v:val="VT0(0):32"/>
+					<v:ud v:nameU="visShapeType" v:prompt="" v:val="VT0(23):26"/>
+					<v:ud v:nameU="visTLShape" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="LCID" v:prompt="" v:val="VT0(-1):26"/>
+					<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT4(4)"/>
+					<v:ud v:nameU="visInterimLoc" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visIntmDateOffset" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visDisplayBE" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visArrowhead" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="LCID" v:prompt="" v:val="VT0(1031):26"/>
+					<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#c8c8c8)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="626.784" width="70.87" height="18.4037"/>
+				<path d="M35.43 595.28 L35.43 604.99" class="st2"/>
+				<text x="7.9" y="630.38" class="st3" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>03.06.2019</text>			</g>
+			<g id="shape16-10" v:mID="16" v:groupContext="shape" transform="translate(661.89,0)">
+				<title>Tabelle.16</title>
+				<v:userDefs>
+					<v:ud v:nameU="visTLAngle" v:prompt="" v:val="VT0(0):32"/>
+					<v:ud v:nameU="visShapeType" v:prompt="" v:val="VT0(23):26"/>
+					<v:ud v:nameU="visTLShape" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="LCID" v:prompt="" v:val="VT0(-1):26"/>
+					<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT4(4)"/>
+					<v:ud v:nameU="visInterimLoc" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visIntmDateOffset" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visDisplayBE" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visArrowhead" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="LCID" v:prompt="" v:val="VT0(1031):26"/>
+					<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#c8c8c8)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+				<v:textRect cx="35.4331" cy="626.784" width="70.87" height="18.4037"/>
+				<path d="M35.43 595.28 L35.43 604.99" class="st2"/>
+				<text x="7.9" y="630.38" class="st3" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>01.11.2019</text>			</g>
+			<g id="shape17-14" v:mID="17" v:groupContext="shape" transform="translate(-35.4331,40.7104)">
+				<title>Tabelle.17</title>
+				<v:userDefs>
+					<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT4(4)"/>
+					<v:ud v:nameU="visInterimLoc" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visIntmDateOffset" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visDisplayBE" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visTLShape" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visArrowhead" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#c8c8c8)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+				</v:userDefs>
+			</g>
+			<g id="shape18-16" v:mID="18" v:groupContext="shape" transform="translate(661.89,40.7104)">
+				<title>Tabelle.18</title>
+				<v:userDefs>
+					<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT4(4)"/>
+					<v:ud v:nameU="visInterimLoc" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visIntmDateOffset" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visDisplayBE" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visTLShape" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visArrowhead" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#c8c8c8)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+				</v:userDefs>
+			</g>
+			<g id="shape19-18" v:mID="19" v:groupContext="shape">
+				<title>Tabelle.19</title>
+				<v:userDefs>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#c8c8c8)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+				</v:userDefs>
+			</g>
+			<g id="shape20-20" v:mID="20" v:groupContext="shape" transform="translate(-1.41733,0)">
+				<title>Tabelle.20</title>
+				<v:userDefs>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT4(4)"/>
+					<v:ud v:nameU="visInterimLoc" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#c8c8c8)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+					<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT0(2):26"/>
+				</v:userDefs>
+			</g>
+			<g id="group95-22" transform="translate(96.1134,0)" v:mID="95" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="visShapeType" v:prompt="" v:val="VT0(17):26"/>
+					<v:ud v:nameU="visTLShape" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visTLAngle" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visInterimOffset" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visInterimLoc" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visIntmDateOffset" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visDisplayIntm" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visDisplayIntmDates" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="TxtAngleOffset" v:prompt="" v:val="VT0(0.12222222222222):1"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visTLShape" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visTLAngle" v:prompt="" v:val="VT0(0):32"/>
+					<v:ud v:nameU="visInterimOffset" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+					<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="visInterimLoc" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visIntmDateOffset" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visDisplayIntm" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visDisplayIntmDates" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="TxtAngleOffset" v:prompt="" v:val="VT0(0.15558131849501):1"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#c8c8c8)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+				</v:userDefs>
+				<title>Zwischen.95</title>
+				<g id="shape96-23" v:mID="96" v:groupContext="shape">
+					<title>Tabelle.96</title>
+					<v:userDefs>
+						<v:ud v:nameU="visTLShape" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="visInterimOffset" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="visInterimLoc" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="visDisplayIntm" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#ffffff)"/>
+						<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#000000)"/>
+						<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+						<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+						<v:ud v:nameU="visInterimOffset" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+						<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+						<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#c8c8c8)"/>
+						<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+						<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+					</v:userDefs>
+					<path d="M32.89 595.28 L32.89 603.78 L32.89 595.28 Z" class="st4"/>
+					<path d="M32.89 595.28 L32.89 603.78" class="st2"/>
+				</g>
+				<g id="shape95-26" v:mID="95" v:groupContext="groupContent">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="32.8913" cy="614.981" width="65.79" height="22.4037"/>
+					<path d="M32.89 595.28 L32.89 589.61" class="st5"/>
+					<text x="5.36" y="618.58" class="st3" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>01.07.2019</text>				</g>
+			</g>
+			<g id="group93-30" transform="translate(239.762,0)" v:mID="93" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="visShapeType" v:prompt="" v:val="VT0(17):26"/>
+					<v:ud v:nameU="visTLShape" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visTLAngle" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visInterimOffset" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visInterimLoc" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visIntmDateOffset" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visDisplayIntm" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visDisplayIntmDates" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="TxtAngleOffset" v:prompt="" v:val="VT0(0.12222222222222):1"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visTLShape" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visTLAngle" v:prompt="" v:val="VT0(0):32"/>
+					<v:ud v:nameU="visInterimOffset" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+					<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="visInterimLoc" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visIntmDateOffset" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visDisplayIntm" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visDisplayIntmDates" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="TxtAngleOffset" v:prompt="" v:val="VT0(0.15558131849501):1"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#c8c8c8)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+				</v:userDefs>
+				<title>Zwischen.93</title>
+				<g id="shape94-31" v:mID="94" v:groupContext="shape">
+					<title>Tabelle.94</title>
+					<v:userDefs>
+						<v:ud v:nameU="visTLShape" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="visInterimOffset" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="visInterimLoc" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="visDisplayIntm" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#ffffff)"/>
+						<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#000000)"/>
+						<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+						<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+						<v:ud v:nameU="visInterimOffset" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+						<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+						<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#c8c8c8)"/>
+						<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+						<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+					</v:userDefs>
+					<path d="M32.89 595.28 L32.89 603.78 L32.89 595.28 Z" class="st4"/>
+					<path d="M32.89 595.28 L32.89 603.78" class="st2"/>
+				</g>
+				<g id="shape93-34" v:mID="93" v:groupContext="groupContent">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="32.8913" cy="614.981" width="65.79" height="22.4037"/>
+					<path d="M32.89 595.28 L32.89 589.61" class="st5"/>
+					<text x="5.36" y="618.58" class="st3" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>01.08.2019</text>				</g>
+			</g>
+			<g id="group91-38" transform="translate(382.713,0)" v:mID="91" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="visShapeType" v:prompt="" v:val="VT0(17):26"/>
+					<v:ud v:nameU="visTLShape" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visTLAngle" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visInterimOffset" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visInterimLoc" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visIntmDateOffset" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visDisplayIntm" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visDisplayIntmDates" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="TxtAngleOffset" v:prompt="" v:val="VT0(0.12222222222222):1"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visTLShape" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visTLAngle" v:prompt="" v:val="VT0(0):32"/>
+					<v:ud v:nameU="visInterimOffset" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+					<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="visInterimLoc" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visIntmDateOffset" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visDisplayIntm" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visDisplayIntmDates" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="TxtAngleOffset" v:prompt="" v:val="VT0(0.15558131849501):1"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#c8c8c8)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+				</v:userDefs>
+				<title>Zwischen.91</title>
+				<g id="shape92-39" v:mID="92" v:groupContext="shape">
+					<title>Tabelle.92</title>
+					<v:userDefs>
+						<v:ud v:nameU="visTLShape" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="visInterimOffset" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="visInterimLoc" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="visDisplayIntm" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#ffffff)"/>
+						<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#000000)"/>
+						<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+						<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+						<v:ud v:nameU="visInterimOffset" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+						<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+						<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#c8c8c8)"/>
+						<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+						<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+					</v:userDefs>
+					<path d="M32.89 595.28 L32.89 603.78 L32.89 595.28 Z" class="st4"/>
+					<path d="M32.89 595.28 L32.89 603.78" class="st2"/>
+				</g>
+				<g id="shape91-42" v:mID="91" v:groupContext="groupContent">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="32.8913" cy="614.981" width="65.79" height="22.4037"/>
+					<path d="M32.89 595.28 L32.89 589.61" class="st5"/>
+					<text x="5.36" y="618.58" class="st3" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>01.09.2019</text>				</g>
+			</g>
+			<g id="group89-46" transform="translate(521.48,0)" v:mID="89" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="visShapeType" v:prompt="" v:val="VT0(17):26"/>
+					<v:ud v:nameU="visTLShape" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visTLAngle" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visInterimOffset" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visInterimLoc" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visIntmDateOffset" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visDisplayIntm" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visDisplayIntmDates" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="TxtAngleOffset" v:prompt="" v:val="VT0(0.12222222222222):1"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="visTLShape" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visTLAngle" v:prompt="" v:val="VT0(0):32"/>
+					<v:ud v:nameU="visInterimOffset" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+					<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="visInterimLoc" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visIntmDateOffset" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visDisplayIntm" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visDisplayIntmDates" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="TxtAngleOffset" v:prompt="" v:val="VT0(0.15558131849501):1"/>
+					<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#c8c8c8)"/>
+					<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+					<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+				</v:userDefs>
+				<title>Zwischen.89</title>
+				<g id="shape90-47" v:mID="90" v:groupContext="shape">
+					<title>Tabelle.90</title>
+					<v:userDefs>
+						<v:ud v:nameU="visTLShape" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="visInterimOffset" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="visInterimLoc" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="visDisplayIntm" v:prompt="" v:val="VT0(1):26"/>
+						<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#ffffff)"/>
+						<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#000000)"/>
+						<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+						<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+						<v:ud v:nameU="visInterimOffset" v:prompt="" v:val="VT0(0.11811023622047):24"/>
+						<v:ud v:nameU="visInterimType" v:prompt="" v:val="VT0(2):26"/>
+						<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+						<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#c8c8c8)"/>
+						<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+						<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+					</v:userDefs>
+					<path d="M32.89 595.28 L32.89 603.78 L32.89 595.28 Z" class="st4"/>
+					<path d="M32.89 595.28 L32.89 603.78" class="st2"/>
+				</g>
+				<g id="shape89-50" v:mID="89" v:groupContext="groupContent">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="32.8913" cy="614.981" width="65.79" height="22.4037"/>
+					<path d="M32.89 595.28 L32.89 589.61" class="st5"/>
+					<text x="5.36" y="618.58" class="st3" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>01.10.2019</text>				</g>
+			</g>
+		</g>
+		<g id="shape97-54" v:mID="97" v:groupContext="shape" transform="translate(56.6929,-534.331)">
+			<title>Rechteck</title>
+			<desc>Analyse</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="27.5259" cy="580.535" width="55.06" height="29.4803"/>
+			<rect x="0" y="565.795" width="55.0518" height="29.4803" class="st6"/>
+			<text x="7.98" y="584.14" class="st7" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Analyse</text>		</g>
+		<g id="shape98-57" v:mID="98" v:groupContext="shape" transform="translate(111.745,-479.055)">
+			<title>Rechteck.98</title>
+			<desc>Kon-zeption</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.2905" cy="580.535" width="56.59" height="29.4803"/>
+			<rect x="0" y="565.795" width="56.581" height="29.4803" class="st6"/>
+			<text x="16.73" y="576.94" class="st7" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Kon-<tspan x="9.67"
+						dy="1.2em" class="st8">zeption</tspan></text>		</g>
+		<g id="shape99-61" v:mID="99" v:groupContext="shape" transform="translate(168.326,-423.548)">
+			<title>Rechteck.99</title>
+			<desc>Realisierung</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="256.144" cy="580.535" width="512.29" height="29.4803"/>
+			<rect x="0" y="565.795" width="512.288" height="29.4803" class="st6"/>
+			<text x="225.53" y="584.14" class="st7" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Realisierung</text>		</g>
+		<g id="shape100-64" v:mID="100" v:groupContext="shape" transform="translate(185.147,-386.698)">
+			<title>Chevron</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L13 595.28 L26 580.54 L13 565.8 L0 565.8 L13 580.54 L0 595.28 Z" class="st9"/>
+		</g>
+		<g id="shape101-66" v:mID="101" v:groupContext="shape" transform="translate(211.144,-386.698)">
+			<title>Chevron.101</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L13 595.28 L26 580.54 L13 565.8 L0 565.8 L13 580.54 L0 595.28 Z" class="st9"/>
+		</g>
+		<g id="shape106-68" v:mID="106" v:groupContext="shape" transform="translate(250.903,-386.698)">
+			<title>Chevron.106</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L13 595.28 L26 580.54 L13 565.8 L0 565.8 L13 580.54 L0 595.28 Z" class="st10"/>
+		</g>
+		<g id="shape107-70" v:mID="107" v:groupContext="shape" transform="translate(275.371,-386.698)">
+			<title>Chevron.107</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L13 595.28 L26 580.54 L13 565.8 L0 565.8 L13 580.54 L0 595.28 Z" class="st10"/>
+		</g>
+		<g id="shape108-72" v:mID="108" v:groupContext="shape" transform="translate(315.131,-386.698)">
+			<title>Chevron.108</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L13 595.28 L26 580.54 L13 565.8 L0 565.8 L13 580.54 L0 595.28 Z" class="st9"/>
+		</g>
+		<g id="shape109-74" v:mID="109" v:groupContext="shape" transform="translate(339.598,-386.698)">
+			<title>Chevron.109</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L13 595.28 L26 580.54 L13 565.8 L0 565.8 L13 580.54 L0 595.28 Z" class="st9"/>
+		</g>
+		<g id="shape110-76" v:mID="110" v:groupContext="shape" transform="translate(380.887,-386.698)">
+			<title>Chevron.110</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L13 595.28 L26 580.54 L13 565.8 L0 565.8 L13 580.54 L0 595.28 Z" class="st10"/>
+		</g>
+		<g id="shape111-78" v:mID="111" v:groupContext="shape" transform="translate(405.354,-386.698)">
+			<title>Chevron.111</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L13 595.28 L26 580.54 L13 565.8 L0 565.8 L13 580.54 L0 595.28 Z" class="st10"/>
+		</g>
+		<g id="shape112-80" v:mID="112" v:groupContext="shape" transform="translate(444.349,-386.698)">
+			<title>Chevron.112</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L13 595.28 L26 580.54 L13 565.8 L0 565.8 L13 580.54 L0 595.28 Z" class="st9"/>
+		</g>
+		<g id="shape113-82" v:mID="113" v:groupContext="shape" transform="translate(469.581,-386.698)">
+			<title>Chevron.113</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L13 595.28 L26 580.54 L13 565.8 L0 565.8 L13 580.54 L0 595.28 Z" class="st9"/>
+		</g>
+		<g id="shape114-84" v:mID="114" v:groupContext="shape" transform="translate(509.341,-386.698)">
+			<title>Chevron.114</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L13 595.28 L26 580.54 L13 565.8 L0 565.8 L13 580.54 L0 595.28 Z" class="st10"/>
+		</g>
+		<g id="shape115-86" v:mID="115" v:groupContext="shape" transform="translate(533.809,-386.698)">
+			<title>Chevron.115</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L13 595.28 L26 580.54 L13 565.8 L0 565.8 L13 580.54 L0 595.28 Z" class="st10"/>
+		</g>
+		<g id="shape116-88" v:mID="116" v:groupContext="shape" transform="translate(574.18,-386.698)">
+			<title>Chevron.116</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L13 595.28 L26 580.54 L13 565.8 L0 565.8 L13 580.54 L0 595.28 Z" class="st9"/>
+		</g>
+		<g id="shape117-90" v:mID="117" v:groupContext="shape" transform="translate(598.036,-386.698)">
+			<title>Chevron.117</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L13 595.28 L26 580.54 L13 565.8 L0 565.8 L13 580.54 L0 595.28 Z" class="st9"/>
+		</g>
+		<g id="shape125-92" v:mID="125" v:groupContext="shape" transform="translate(185.147,-372.539)">
+			<title>Rechteck.125</title>
+			<desc>Sprint 1</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.9967" cy="589.911" width="52" height="10.7295"/>
+			<rect x="0" y="584.546" width="51.9934" height="10.7295" class="st9"/>
+			<text x="9.86" y="592.91" class="st11" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Sprint 1</text>		</g>
+		<g id="shape126-95" v:mID="126" v:groupContext="shape" transform="translate(250.903,-372.539)">
+			<title>Rechteck.126</title>
+			<desc>Sprint 2</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.2321" cy="589.911" width="50.47" height="10.7295"/>
+			<rect x="0" y="584.546" width="50.4642" height="10.7295" class="st10"/>
+			<text x="9.1" y="592.91" class="st11" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Sprint 2</text>		</g>
+		<g id="shape127-98" v:mID="127" v:groupContext="shape" transform="translate(315.131,-372.539)">
+			<title>Rechteck.127</title>
+			<desc>Sprint 3</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.2321" cy="589.911" width="50.47" height="10.7295"/>
+			<rect x="0" y="584.546" width="50.4642" height="10.7295" class="st9"/>
+			<text x="9.1" y="592.91" class="st11" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Sprint 3</text>		</g>
+		<g id="shape128-101" v:mID="128" v:groupContext="shape" transform="translate(380.887,-372.539)">
+			<title>Rechteck.128</title>
+			<desc>Sprint 4</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.2321" cy="589.62" width="50.47" height="11.3107"/>
+			<rect x="0" y="583.965" width="50.4642" height="11.3107" class="st10"/>
+			<text x="9.1" y="592.62" class="st11" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Sprint 4</text>		</g>
+		<g id="shape129-104" v:mID="129" v:groupContext="shape" transform="translate(444.349,-372.539)">
+			<title>Rechteck.129</title>
+			<desc>Sprint 5</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.6144" cy="589.62" width="51.23" height="11.3107"/>
+			<rect x="0" y="583.965" width="51.2288" height="11.3107" class="st9"/>
+			<text x="9.48" y="592.62" class="st11" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Sprint 5</text>		</g>
+		<g id="shape130-107" v:mID="130" v:groupContext="shape" transform="translate(509.341,-372.539)">
+			<title>Rechteck.130</title>
+			<desc>Sprint 6</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.2321" cy="589.62" width="50.47" height="11.3107"/>
+			<rect x="0" y="583.965" width="50.4642" height="11.3107" class="st10"/>
+			<text x="9.1" y="592.62" class="st11" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Sprint 6</text>		</g>
+		<g id="shape131-110" v:mID="131" v:groupContext="shape" transform="translate(574.18,-372.539)">
+			<title>Rechteck.131</title>
+			<desc>Sprint 7</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="24.9262" cy="589.62" width="49.86" height="11.3107"/>
+			<rect x="0" y="583.965" width="49.8525" height="11.3107" class="st9"/>
+			<text x="8.79" y="592.62" class="st11" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Sprint 7</text>		</g>
+		<g id="shape132-113" v:mID="132" v:groupContext="shape" transform="translate(680.613,-368.504)">
+			<title>Rechteck.132</title>
+			<desc>Training</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="36.7012" cy="580.535" width="73.41" height="29.4803"/>
+			<rect x="0" y="565.795" width="73.4024" height="29.4803" class="st6"/>
+			<text x="16.4" y="584.14" class="st7" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Training</text>		</g>
+		<g id="shape134-116" v:mID="134" v:groupContext="shape" transform="translate(707.02,53.5748) rotate(90)">
+			<title>Gebogener Pfeil</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L3.4 595.28 A10.1567 10.1567 0 0 1 13.56 585.12 L26.08 585.12 L26.08 588.38 L33.17 583.41 L26.08 578.45
+						 L26.08 581.71 L13.56 581.71 A13.5572 13.5572 -180 0 0 0 595.28 Z" class="st12"/>
+		</g>
+		<g id="shape135-118" v:mID="135" v:groupContext="shape" transform="translate(763.601,108.85) rotate(90)">
+			<title>Gebogener Pfeil.135</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L3.4 595.28 A10.1567 10.1567 0 0 1 13.56 585.12 L26.08 585.12 L26.08 588.38 L33.17 583.41 L26.08 578.45
+						 L26.08 581.71 L13.56 581.71 A13.5572 13.5572 -180 0 0 0 595.28 Z" class="st12"/>
+		</g>
+		<g id="shape136-120" v:mID="136" v:groupContext="shape" transform="translate(1275.89,164.126) rotate(90)">
+			<title>Gebogener Pfeil.136</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L3.4 595.28 A10.1567 10.1567 0 0 1 13.56 585.12 L26.08 585.12 L26.08 588.38 L33.17 583.41 L26.08 578.45
+						 L26.08 581.71 L13.56 581.71 A13.5572 13.5572 -180 0 0 0 595.28 Z" class="st12"/>
+		</g>
+		<g id="shape139-122" v:mID="139" v:groupContext="shape" transform="translate(240.945,-324.85)">
+			<title>Rechteck, 1 abgeschnittene Ecke</title>
+			<desc>Kern-system</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.076460835058241):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="27.5259" cy="580.535" width="55.06" height="29.4803"/>
+			<path d="M0 595.28 L55.05 595.28 L55.05 571.3 L49.55 565.8 L0 565.8 L0 595.28 Z" class="st13"/>
+			<text x="16.54" y="577.54" class="st14" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Kern-<tspan
+						x="13.19" dy="1.2em" class="st8">system</tspan></text>		</g>
+		<g id="shape140-126" v:mID="140" v:groupContext="shape" transform="translate(419.528,-324.85)">
+			<title>Rechteck, 1 abgeschnittene Ecke.140</title>
+			<desc>Prozesse</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.076460835058241):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="27.5259" cy="580.535" width="55.06" height="29.4803"/>
+			<path d="M0 595.28 L55.05 595.28 L55.05 571.3 L49.55 565.8 L0 565.8 L0 595.28 Z" class="st13"/>
+			<text x="9.7" y="583.54" class="st14" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Prozesse</text>		</g>
+		<g id="shape141-129" v:mID="141" v:groupContext="shape" transform="translate(496.063,-324.85)">
+			<title>Rechteck, 1 abgeschnittene Ecke.141</title>
+			<desc>„Schman-kerl“</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.076460835058241):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="27.5259" cy="580.535" width="55.06" height="29.4803"/>
+			<path d="M0 595.28 L55.05 595.28 L55.05 571.3 L49.55 565.8 L0 565.8 L0 595.28 Z" class="st13"/>
+			<text x="7.85" y="577.54" class="st14" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>„Schman-<tspan
+						x="17.78" dy="1.2em" class="st8">kerl</tspan>“</text>		</g>
+		<g id="shape142-133" v:mID="142" v:groupContext="shape" transform="translate(623.622,-324.85)">
+			<title>Rechteck, 1 abgeschnittene Ecke.142</title>
+			<desc>Zusatz-funktionen</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.076460835058241):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="27.5259" cy="580.535" width="55.06" height="29.4803"/>
+			<path d="M0 595.28 L55.05 595.28 L55.05 571.3 L49.55 565.8 L0 565.8 L0 595.28 Z" class="st13"/>
+			<text x="13.03" y="577.54" class="st14" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Zusatz-<tspan
+						x="5.27" dy="1.2em" class="st8">funktionen</tspan></text>		</g>
+		<g id="shape147-137" v:mID="147" v:groupContext="shape" v:layerMember="0" transform="translate(226.772,-372.539)">
+			<title>Dynamischer Verbinder</title>
+			<path d="M0 595.28 L0 621.14 A7.08661 7.08661 -180 0 0 7.09 628.22 L7.13 628.22" class="st15"/>
+		</g>
+		<g id="shape149-143" v:mID="149" v:groupContext="shape" v:layerMember="0" transform="translate(405.737,-372.539)">
+			<title>Dynamischer Verbinder.149</title>
+			<path d="M0.38 595.28 L0.38 621.52 A6.70432 6.70432 -180 0 0 7.09 628.22 L13.79 628.22" class="st17"/>
+		</g>
+		<g id="shape152-149" v:mID="152" v:groupContext="shape" v:layerMember="0" transform="translate(481.89,-372.539)">
+			<title>Dynamischer Verbinder.152</title>
+			<path d="M0 595.28 L0 621.14 A7.08661 7.08661 -180 0 0 7.09 628.22 L7.13 628.22" class="st15"/>
+		</g>
+		<g id="shape153-154" v:mID="153" v:groupContext="shape" v:layerMember="0" transform="translate(609.449,-372.539)">
+			<title>Dynamischer Verbinder.153</title>
+			<path d="M0 595.28 L0 621.14 A7.08663 7.08663 -180 0 0 7.09 628.22 L7.13 628.22" class="st15"/>
+		</g>
+	</g>
+</svg>
